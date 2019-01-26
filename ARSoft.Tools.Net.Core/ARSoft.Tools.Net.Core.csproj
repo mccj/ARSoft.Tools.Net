@@ -7,6 +7,7 @@
     <PackageLicenseUrl>https://raw.githubusercontent.com/mccj/ARSoft.Tools.Net.Core/master/LICENSE</PackageLicenseUrl>
     <Version>2.3.0</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>This project contains a complete managed .Net DNS and DNSSEC client, a DNS server and SPF and SenderID validation.</Description>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Portable.BouncyCastle" Version="1.8.4" />

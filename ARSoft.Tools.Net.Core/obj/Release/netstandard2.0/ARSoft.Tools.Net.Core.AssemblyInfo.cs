@@ -13,6 +13,8 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("ARSoft.Tools.Net.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("This project contains a complete managed .Net DNS and DNSSEC client, a DNS server" +
+    " and SPF and SenderID validation.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.2.9.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.3.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ARSoft.Tools.Net.Core")]
