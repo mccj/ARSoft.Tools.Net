@@ -1,0 +1,9 @@
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\obj\Debug\net46\ARSoft.Tools.Net.Core.csproj.CoreCompileInputs.cache
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\obj\Debug\net46\ARSoft.Tools.Net.Core.AssemblyInfoInputs.cache
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\obj\Debug\net46\ARSoft.Tools.Net.Core.AssemblyInfo.cs
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\bin\Debug\net46\ARSoft.Tools.Net.Core.dll
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\bin\Debug\net46\ARSoft.Tools.Net.Core.pdb
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\bin\Debug\net46\BouncyCastle.Crypto.dll
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\obj\Debug\net46\ARSoft.Tools.Net.Core.csproj.CopyComplete
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\obj\Debug\net46\ARSoft.Tools.Net.Core.dll
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\obj\Debug\net46\ARSoft.Tools.Net.Core.pdb

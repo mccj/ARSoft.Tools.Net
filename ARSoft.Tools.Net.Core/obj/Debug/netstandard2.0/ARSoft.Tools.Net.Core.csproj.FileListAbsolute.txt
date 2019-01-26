@@ -1,0 +1,16 @@
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net\ARSoft.Tools.Net\obj\Debug\netstandard2.0\ARSoft.Tools.Net.Core.csproj.CoreCompileInputs.cache
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net\ARSoft.Tools.Net\obj\Debug\netstandard2.0\ARSoft.Tools.Net.Core.AssemblyInfoInputs.cache
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net\ARSoft.Tools.Net\obj\Debug\netstandard2.0\ARSoft.Tools.Net.Core.AssemblyInfo.cs
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net\ARSoft.Tools.Net\bin\Debug\netstandard2.0\ARSoft.Tools.Net.Core.deps.json
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net\ARSoft.Tools.Net\bin\Debug\netstandard2.0\ARSoft.Tools.Net.Core.dll
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net\ARSoft.Tools.Net\bin\Debug\netstandard2.0\ARSoft.Tools.Net.Core.pdb
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net\ARSoft.Tools.Net\obj\Debug\netstandard2.0\ARSoft.Tools.Net.Core.dll
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net\ARSoft.Tools.Net\obj\Debug\netstandard2.0\ARSoft.Tools.Net.Core.pdb
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\obj\Debug\netstandard2.0\ARSoft.Tools.Net.Core.csproj.CoreCompileInputs.cache
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\obj\Debug\netstandard2.0\ARSoft.Tools.Net.Core.AssemblyInfoInputs.cache
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\obj\Debug\netstandard2.0\ARSoft.Tools.Net.Core.AssemblyInfo.cs
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\obj\Debug\netstandard2.0\ARSoft.Tools.Net.Core.dll
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\obj\Debug\netstandard2.0\ARSoft.Tools.Net.Core.pdb
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\bin\Debug\netstandard2.0\ARSoft.Tools.Net.Core.deps.json
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\bin\Debug\netstandard2.0\ARSoft.Tools.Net.Core.dll
+C:\Users\mccj\source\repos\mccj\ARSoft.Tools.Net.Core\ARSoft.Tools.Net.Core\bin\Debug\netstandard2.0\ARSoft.Tools.Net.Core.pdb

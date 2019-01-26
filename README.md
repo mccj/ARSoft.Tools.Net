@@ -6,7 +6,7 @@ If you use this library, please send me your feedback and add a link to this pag
 In addition you can [Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A5RMPWBTPZ29G) or send me an [Amazon.de gift card](https://www.amazon.de/gp/gc/order-email?ie=UTF8&ref_=gc_lp_eb2&design=a_amazon_09)
 
 # Nuget Package
-The library is avaible on Nuget, too: [http://nuget.org/packages/ARSoft.Tools.Net](http://nuget.org/packages/ARSoft.Tools.Net)
+The library is avaible on Nuget, too: [https://www.nuget.org/packages/ARSoft.Tools.Net.Core/](https://www.nuget.org/packages/ARSoft.Tools.Net.Core/)
 
 # Features
 **Parsing and Validating of SPF/SenderID records:**

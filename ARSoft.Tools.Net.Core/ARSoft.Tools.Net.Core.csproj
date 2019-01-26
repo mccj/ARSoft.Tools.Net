@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;NET46</TargetFrameworks>
+    <AssemblyVersion>2.2.9.0</AssemblyVersion>
+    <FileVersion>2.2.9.0</FileVersion>
+    <PackageProjectUrl>https://github.com/mccj/ARSoft.Tools.Net.Core</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/mccj/ARSoft.Tools.Net.Core/master/LICENSE</PackageLicenseUrl>
+    <Version>2.3.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Portable.BouncyCastle" Version="1.8.4" />
+  </ItemGroup>
+</Project>
