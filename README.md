@@ -3,7 +3,7 @@ This project contains a complete managed .Net SPF validation, SenderID validatio
 
 # Donations
 If you use this library, please send me your feedback and add a link to this page.
-In addition you can [Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A5RMPWBTPZ29G) or send me an [Amazon.de gift card](https://www.amazon.de/gp/gc/order-email?ie=UTF8&ref_=gc_lp_eb2&design=a_amazon_09)
+In addition you can [Donate via Paypal](https://paypal.me/maocaijun?locale.x=zh_XC) or send me an [Amazon.de gift card](https://www.amazon.de/gp/gc/order-email?ie=UTF8&ref_=gc_lp_eb2&design=a_amazon_09)
 
 # Nuget Package
 The library is avaible on Nuget, too: [https://www.nuget.org/packages/ARSoft.Tools.Net.Core/](https://www.nuget.org/packages/ARSoft.Tools.Net.Core/)
