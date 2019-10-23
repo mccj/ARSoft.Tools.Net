@@ -10,6 +10,6 @@
     <Description>This project contains a complete managed .Net DNS and DNSSEC client, a DNS server and SPF and SenderID validation.</Description>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Portable.BouncyCastle" Version="1.8.4" />
+    <PackageReference Include="Portable.BouncyCastle" Version="1.8.5" />
   </ItemGroup>
 </Project>
