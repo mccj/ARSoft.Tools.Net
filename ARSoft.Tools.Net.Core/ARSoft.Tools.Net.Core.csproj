@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;NET46</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;NET45</TargetFrameworks>
     <AssemblyVersion>2.2.9.0</AssemblyVersion>
     <FileVersion>2.2.9.0</FileVersion>
     <PackageProjectUrl>https://github.com/mccj/ARSoft.Tools.Net.Core</PackageProjectUrl>
